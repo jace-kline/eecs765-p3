@@ -1,0 +1,4 @@
+file ./getscore_heap
+b 58
+run AAAAAAA AAAAAAAAAAAAAAAA
+p matching_pattern
