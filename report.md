@@ -1,4 +1,4 @@
-# EECS 765 Project 2
+# EECS 765 Project 3
 
 Author: Jace Kline 2881618
 
@@ -20,7 +20,7 @@ Before running the exploit, we assume that the environment is as described in th
 
 This script performs compilation, parameter gathering, input construction, and execution. The result of executing this script should be a shell obtained as the result of a heap overflow attack. The details of this script are discussed later in this report.
 
-<img src="https://github.com/jace-kline/eecs765-p3/raw/main/exploit.png" width="95%"/>
+<img src="https://github.com/jace-kline/eecs765-p3/raw/main/exploit.png" width="50%"/>
 
 ## Developing the Exploit
 
